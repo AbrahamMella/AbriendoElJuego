@@ -10,7 +10,6 @@ function AppHeader({ text }) {
   );
 }
 const styles = StyleSheet.create({
-  container: {},
   header: {
     width: "100%",
     height: 50,
